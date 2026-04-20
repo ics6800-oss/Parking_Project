@@ -15,7 +15,7 @@ BASYS3 기반 초음파 거리 측정 차단기 제어 시스템
 ## 하드웨어
 - BASYS3 FPGA 보드
 - HC-SR04 초음파 센서
-- 서보 모터 (SG90)
+- 서보 모터 (MG996R)
 - 4자리 7-Segment (FND)
 - LED ×16
 - AXI GPIO ×4
