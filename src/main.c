@@ -9,8 +9,7 @@
 #include "servo.h"
 #include "ultrasonic.h"
 
-// --- 전역 드라이버 인스턴스 정의 (가장 중요) ---
-// 다른 파일에서는 extern으로 '선언'만 하고, main.c에서 '정의'합니다.
+// 전역 드라이버 인스턴스 정의
 XGpio gpio_led, gpio_fnd, gpio_ultra, gpio_servo;
 XTmrCtr timer_ultra;
 
